@@ -1,2 +1,2 @@
 # CursoJavaAP
-Repositorio del curso de Java de ArgentinaPrograma
+Repositorio del curso de Desarrollador Inicial Java de ArgentinaPrograma 4.0.
